@@ -25,7 +25,7 @@ In Windows, there is a system level PATH variable and a user level PATH variable
 - Drag and drop the file of choice into the batch script.  That is all.
 
 
-:star: Star this if it helped you — it helps!
+:star: Star this if it helped you (top right) or donate below — it helps!
 
 # Donate
 
