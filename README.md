@@ -32,10 +32,10 @@ In Windows, there is a system level PATH variable and a user level PATH variable
 - If this greatly helped or entertained you, donate with the QR code or using this link-> https://www.paypal.com/donate/?hosted_button_id=64MB697PX3R2E
 
 <p align="center>
-	<img src="images/donate-qr.png" align="center" height="128"></img>
+	<img src="images/donate-qr.png" align="center" width="128" height="128"></img>
 </p>
 <p align="center>
-	<img src="images/coffee-pizza-meme.png" align="center" height="160"></img>
+	<img src="images/coffee-pizza-meme.png" align="center" width="138" height="160"></img>
 </p>
 
 #  Contact
